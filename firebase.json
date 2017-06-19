@@ -1,0 +1,10 @@
+{
+    "hosting":{
+        "firebase": "ionic-course-12e99",
+        "public": "www",
+        "rewrites":[{
+            "source":"**",
+            "destination":"/index.html"
+        }]
+    }
+}
